@@ -1,2 +1,2 @@
-# ccdn344_p2_2
-week2
+The week two
+I developed from version 1.0 and I import my own data set to the programme. This version shows my different activities on Twitter and estimate my active index. The index shows in the middle of circle and when the mouse hovering on different parts of this figure, it can show different figure like Tweet, retweet or like and so on.
